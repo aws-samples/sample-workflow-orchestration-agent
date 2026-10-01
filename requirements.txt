@@ -1,0 +1,14 @@
+# Workflow Orchestration Agents - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Strands Agents SDK - AI agent framework
+# https://pypi.org/project/strands-agents/
+strands-agents==1.57.2
+
+# Loads the repo-root .env (AWS_PROFILE, AWS_REGION, STRANDS_MODEL_*) in shared/model.py
+# https://pypi.org/project/python-dotenv/
+python-dotenv==1.2.4
+
+# HTTP requests for web research tools
+# https://pypi.org/project/requests/
+requests==2.34.2
