@@ -118,7 +118,7 @@ Use a router when different request types need genuinely different expertise. It
 
 - [Companion blog post: Orchestrating Agents](Orchestrating%20Agents%20-%20Sequential%2C%20Parallel%2C%20and%20Conditional%20Workflows.md)
 - [AWS Prescriptive Guidance - Workflow orchestration agents](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/workflow-orchestration-agents.html)
-- [Strands multi-agent workflow example](https://strandsagents.com/docs/examples/python/agents_workflows/)
+- [Strands multi-agent workflow example](https://strandsagents.com/docs/user-guide/sdk/multi-agent/workflow/)
 - [AWS Step Functions](https://aws.amazon.com/step-functions/)
 - [Amazon Bedrock User Guide](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
 
